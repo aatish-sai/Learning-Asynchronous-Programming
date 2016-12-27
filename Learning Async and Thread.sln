@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAsync", "WebAsync\WebAsy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitTask", "AsyncAwaitTask\AsyncAwaitTask.csproj", "{A8D9ACC6-75FF-40D9-A86A-3E6C73B8C04E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularVsAsync", "RegularVsAsync\RegularVsAsync.csproj", "{20CFB181-71B5-4AF3-98BA-A1D80C8D3804}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A8D9ACC6-75FF-40D9-A86A-3E6C73B8C04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8D9ACC6-75FF-40D9-A86A-3E6C73B8C04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8D9ACC6-75FF-40D9-A86A-3E6C73B8C04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20CFB181-71B5-4AF3-98BA-A1D80C8D3804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CFB181-71B5-4AF3-98BA-A1D80C8D3804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CFB181-71B5-4AF3-98BA-A1D80C8D3804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CFB181-71B5-4AF3-98BA-A1D80C8D3804}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
