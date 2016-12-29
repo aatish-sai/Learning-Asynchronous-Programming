@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularVsAsync", "RegularVs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartStopJoin", "StartStopJoin\StartStopJoin.csproj", "{11838436-A079-46B9-A138-4CD42CF8B1CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorSample", "MonitorSample\MonitorSample.csproj", "{265124CD-7E66-4BD8-BD62-81B67E207B26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{11838436-A079-46B9-A138-4CD42CF8B1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11838436-A079-46B9-A138-4CD42CF8B1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11838436-A079-46B9-A138-4CD42CF8B1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{265124CD-7E66-4BD8-BD62-81B67E207B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265124CD-7E66-4BD8-BD62-81B67E207B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265124CD-7E66-4BD8-BD62-81B67E207B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265124CD-7E66-4BD8-BD62-81B67E207B26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
